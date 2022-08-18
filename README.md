@@ -1,6 +1,6 @@
 ## About
 
-Genetic AI was a lab in my Introduction to Artificial Intelligence class that demonstrated how AI can solve problems by learning from its mistakes.
+Genetic AI was a lab assignment in my Introduction to Artificial Intelligence class that demonstrated how AI can solve problems by learning from its mistakes.
 
 ## Context
 
@@ -9,7 +9,7 @@ This python-based genetic AI algorithm aims to produce a fitness level of 32, wh
 <p align="center" width="100%">
 <img
       src="https://jtagaca.live/images/Genetic_AI3.gif"
-      height=540px width=1080px
+      height=540px 
    />
       </p>
 
